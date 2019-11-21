@@ -1825,6 +1825,10 @@ table tr, table td {
   font-size: 5rem;
   text-align: left; }
 
+.full-post-cta {
+  width: 100%;
+  margin: 3rem 0; }
+
 .post-link {
   transition: all 0.3s ease-in-out; }
 
