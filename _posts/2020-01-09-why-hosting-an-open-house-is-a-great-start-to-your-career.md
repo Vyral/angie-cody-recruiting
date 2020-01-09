@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Hosting an Open House is a Great Start to Your Career
-date: 2020-01-09 20:53:43
+date: 2020-01-09 20:53:00
 tags:
   - Lead Generation
 excerpt: >-
