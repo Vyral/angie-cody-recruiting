@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Angie Cody Real Estate Team - your professional Nashville Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Angie Cody</managingEditor>
-    <lastBuildDate>2019-11-21 13:30:22 -0600</lastBuildDate>
+    <lastBuildDate>2020-01-14 15:52:31 -0600</lastBuildDate>
     <media:copyright>Angie Cody</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nashville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,47 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Angie Cody Real Estate Team - your professional Nashville Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Why Hosting an Open House Is a Great Start to Your Career</title>
+        <link>http://localhost:4000/why-hosting-an-open-house-is-a-great-start-to-your-career.html</link>
+        
+          <category>Lead Generation</category>
+        
+        <author>Angie Cody</author>
+        <pubDate>2020-01-09 14:53:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Angie+Cody/Recruiting+Videos/Why+Hosting+an+Open+House+is+a+Great+Start+to+Your+Career.mp4</guid>
+        <description>
+
+Hosting an open house is a great way to get your start in the real estate business if you’re on a limited budget.
+
+
+  
+
+
+One of the best ways to get started in real estate if you have little or no money is to host an open house. To make your open house a success, here are a few tips to follow. 
+
+First, pick a house that excites you. “Exciting” can mean a part of town you’re passionate about, or a house in a hot price point that you know will generate traffic. 
+
+Second, start promoting the open house three or four days in advance. A great way to do this is by putting signs out. I recommend getting two different types of signs for the open house—one that’s branded with your company logo, and another that’s more of the generic, red-and-white kind you can buy at Home Depot or Walmart. If you put out two types of signs, people will think there are two open houses in the same area, and they’ll be more likely to drive by. You’ll want to put out anywhere from 10 to 20 signs, and they should be on every street corner leading up to the open house. 
+
+“To make your open house a success, here are a few tips to follow.”
+
+Next, utilize social media. There are plenty of inexpensive advertising opportunities on Facebook and Instagram. Craigslist is another free source you can use. Also, start door knocking and invite the neighbors.
+
+Lastly, on the day of the open house, make sure you have a sign-in sheet handy. You want to record people’s information because—remember—you’re trying to get buyer leads. 
+
+If you’d like to learn more tips for building a successful real estate business, I invite you to attend one of my business planning sessions or schedule a one-on-one strategy session. I look forward to hearing from you. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Angie+Cody/Recruiting+Videos/Why+Hosting+an+Open+House+is+a+Great+Start+to+Your+Career.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Angie+Cody/Recruiting+Videos/Why+Hosting+an+Open+House+is+a+Great+Start+to+Your+Career.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Hosting an open house is a great way to get your start in the real estate business if you’re on a limited budget.</itunes:subtitle>
+        <itunes:author>Angie Cody</itunes:author>
+        <itunes:summary>Hosting an open house is a great way to get your start in the real estate business if you’re on a limited budget.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Nashville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
     <copyright>Angie Cody</copyright>
     <media:credit role="author">Angie Cody</media:credit>
     <media:rating>nonadult</media:rating>
