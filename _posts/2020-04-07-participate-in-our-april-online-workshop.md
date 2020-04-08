@@ -20,6 +20,4 @@ youtube_code: 'https://youtu.be/RFmDSntD8Ug'
 
 Today I’m excited to invite you to an online workshop that my team and I will be hosting **Thursday, April 30, from 4 p.m. to 4:30 p.m.** We’ll be sharing plenty of great tips on how to jumpstart your real estate career. Be sure to click the registration link below, and I look forward to seeing you there\!&nbsp;
 
-**[Click here to register\!](https://www.eventbrite.com/e/how-to-sell-your-home-in-2020-a-virtual-home-sellers-seminar-tickets-101911323512){: target="_blank"}**
-
 {% include full-post-cta.html %}
