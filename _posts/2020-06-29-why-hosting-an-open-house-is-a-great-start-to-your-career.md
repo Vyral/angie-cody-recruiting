@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/wwgD7g7iHtE'
 
 {% include youtube.html %}
 
-*Hosting an open house is a great way to get your start in the real estate business if you’re on a limited budget.*
+<p style="text-align: center;"><em>Hosting an open house is a great way to get your start in the real estate business if you’re on a limited budget.</em></p>
 
 One of the best ways to get started in real estate if you have little or no money is to host an open house. To make your open house a success, here are a few tips to follow.&nbsp;
 
