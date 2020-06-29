@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Hosting an Open House Is a Great Start to Your Career
-date: 2020-01-09 20:53:00
+date: 2020-06-29 09:27:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -19,9 +19,7 @@ youtube_code: 'https://youtu.be/wwgD7g7iHtE'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Hosting an open house is a great way to get your start in the real estate business if you’re on a limited budget.</em></p>
-
-{% include full-post-cta.html %}
+*Hosting an open house is a great way to get your start in the real estate business if you’re on a limited budget.*
 
 One of the best ways to get started in real estate if you have little or no money is to host an open house. To make your open house a success, here are a few tips to follow.&nbsp;
 
@@ -36,3 +34,5 @@ Next, **utilize social media.** There are plenty of inexpensive advertising oppo
 Lastly, on the day of the open house, **make sure you have a sign-in sheet handy.** You want to record people’s information because—remember—you’re trying to get buyer leads.&nbsp;
 
 If you’d like to learn more tips for building a successful real estate business, I invite you to attend one of my business planning sessions or schedule a one-on-one strategy session. I look forward to hearing from you.&nbsp;
+
+{% include full-post-cta.html %}
